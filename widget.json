@@ -1,6 +1,6 @@
 {
   "name": "SimpleClock",
-  "description": "Simple Date and Clock widget with week number",
+  "description": "Simple Date and Clock widget with week number, based on the SimpleDate widget",
   "author": "Helma van der Linden",
   "email": "hepabolu@github.com"
 }
